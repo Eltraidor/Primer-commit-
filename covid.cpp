@@ -15,7 +15,7 @@ int main(){
 		cout <<"\n Su temperatura da para covid-19...";
 	}
 	else{
-		cout <<"\n Estas libre de el virus... ";
+		cout <<"\n Estas libre de el virus covid-19... ";
 	}
 	
 	
